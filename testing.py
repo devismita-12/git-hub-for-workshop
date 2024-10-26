@@ -3,3 +3,4 @@ The Linux security feature is the main reason that it is the most favorable opti
 
 3. Free
 Certainly, the biggest advantage of the Linux system is that it is free to use. We can easily download it, and there is no need to buy the license for it. It is distributed under GNU GPL (General Public License). Comparatively, we have to pay a huge amount for the license of the other operating systems.
+ggjjj
